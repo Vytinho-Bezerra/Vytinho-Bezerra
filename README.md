@@ -19,7 +19,7 @@
 
 ### 💻 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vytinho-bezerra&layout=compact&theme=dark)
+![Top Langs][def]
 
 <!--
 **Vytinho-Bezerra/Vytinho-Bezerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,3 +35,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[def]: https://github-readme-stats.vercel.app/api/top-langs/?username=vytinho-bezerra&layout=compact&theme=dark&show_icons=true
