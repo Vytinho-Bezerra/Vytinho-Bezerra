@@ -13,6 +13,8 @@
 
 ### 🖤 Projetos Favoritos
 
+[![Mega_Sena_JS](https://github-readme-stats.vercel.app/api/pin/?username=vytinho-bezerra&repo=Mega_Sena_JS&theme=dark)](https://github.com/Vytinho-Bezerra/Mega_Sena_JS)
+
 [![Conversor_Bin_Python](https://github-readme-stats.vercel.app/api/pin/?username=vytinho-bezerra&repo=Conversor_Bin_Python&theme=dark)](https://github.com/Vytinho-Bezerra/Conversor_Bin_Python)
 
 ### 💻 Linguagens Mais Usadas
