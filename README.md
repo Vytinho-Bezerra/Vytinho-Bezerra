@@ -9,7 +9,7 @@
 
 ### 📊 Estatísticas no GitHub
 
-![vytinho-bezerra's GitHub stats](https://github-readme-stats.vercel.app/api?username=vytinho-bezerra&show_icons=true&theme=dark&color=black)
+![vytinho-bezerra's GitHub stats](https://github-readme-stats.vercel.app/api?username=vytinho-bezerra&show_icons=true&theme=dark&color=red)
 
 ### 🖤 Projetos Favoritos
 
