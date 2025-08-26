@@ -1,6 +1,6 @@
 ### Olá, eu me chamo Vyctor Santos Bezerra (Vytinho-Bezerra)
 
-📚 **Estudante** na [Universidade Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/) cursando **ADS**
+📚 **Formado** na [Universidade Cruzeiro do Sul](https://www.cruzeirodosul.edu.br/) graduação: **ADS**
 
 📝 **Aprendendo...**
 - **NodeJS** - Desenvolvimento *Back-End*
